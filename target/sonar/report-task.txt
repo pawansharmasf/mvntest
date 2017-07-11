@@ -1,0 +1,5 @@
+projectKey=com.example.maven-samples:parent
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.example.maven-samples:parent
+ceTaskId=AV0xA8Xr6Cp4d1uKZSMv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV0xA8Xr6Cp4d1uKZSMv
